@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+#### I am a Ph.D. student at the Human-Centered Computer Systems Lab at Seoul National University. My research interests lie in enhancing XR systems with deep learning. Recently, I have been looking at scene understanding techniques based on deep learning.
+
+
+
 <!--
 **cocos41d/cocos41d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
